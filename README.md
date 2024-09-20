@@ -1,10 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate ANDROID developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhulavaasan&label=Profile%20views&color=0e75b6&style=flat" alt="gokhulavaasan" /> </p>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JETPACK**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **ANDROID**
 
 
 <h3 align="left">Connect with me:</h3>
