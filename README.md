@@ -1,6 +1,5 @@
 <h3 align="center">A passionate ANDROID developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gokhulavaasan&label=Profile%20views&color=0e75b6&style=flat" alt="gokhulavaasan" /> </p>
 
 - 🌱 I’m currently learning **JETPACK**
 
