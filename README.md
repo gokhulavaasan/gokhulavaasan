@@ -1,4 +1,4 @@
-<h3 align="center">A passionate ANDROID developer from India</h3>
+<h3 align="center">A Passionate Mobile Application Developer From India</h3>
 
 
 - 🌱 I’m currently learning **JETPACK**
